@@ -1,0 +1,50 @@
+
+.buy-now-button{
+    background-image: linear-gradient(#EB4687,#E91C69);
+    color: white;
+}
+
+.price-color{
+    color: #DA2064!important;
+}
+
+.watch-background{
+    background-image: linear-gradient(45deg,#EF962D,#F4C71B);
+    border-radius: 7px;
+}
+
+
+.bag-background{
+    background-image: linear-gradient(45deg,#ED3F84,#ED4589);
+    border-radius: 7px;
+}
+
+.shoes-background{
+    background-image: linear-gradient(45deg,#4173FF,#3613F7);
+    border-radius: 10px;
+}
+
+header{
+    margin-bottom: 6%;
+}
+
+.categories img{
+    width: 100px;
+}
+
+.card{
+    border-radius: 10px;
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.card-footer{
+    background-color: white;
+    border: none;
+    padding-bottom: 20px;
+    padding-top: 0px;
+}
+
+footer{
+    text-align: center;
+}
